@@ -1,0 +1,12 @@
+.footer{
+	position: fixed;
+	bottom: 0;
+}
+
+.MyIcon{
+	width: 100px; 
+	height: 100px; 
+	margin-left:110px; 
+	margin-bottom:30px; 
+	filter: hue-rotate(90deg);
+}
